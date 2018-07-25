@@ -1,4 +1,4 @@
-# Proyecto de Practica Basado en Curso Angular 6 de Udemy
+# Project of Practice Based on Angular Course 6 of Udemy - WL
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
